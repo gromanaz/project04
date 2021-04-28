@@ -11,7 +11,7 @@ Topic: Foods/Recipes
 ### Layout
 
 * Homepage: Z-pattern
-  * // pic here
+  * ![project04-wireframe-home](/Users/ginaromanazzi/Documents/University of Rochester/6_Spring_2021/DMST290_Front End Web Design/project04_github/project04/visualdesign/project04-wireframe-home.JPG)
   * The Z-pattern is perfect for displaying large images - of food items or dishes - that will attract the reader's attention to learn more about delicious food. Especially useful is the call to action in the terminal area as an invitation to the reader and also as bait. Together with the images it will be easy to follow the appetite provoked by the images to the other pages.
 
 * Content pages: F-pattern
