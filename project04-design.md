@@ -8,7 +8,10 @@ DMS 290 - Front-End Web Design
 
 ### Layout
 
-### Color Pallet
+### Color Palette
+The color palette is based on colors that are associated with food - a lot of greens and shades of red, some yellow:
+https://coolors.co/666b6a-8b8c79-b0ac88-fbeeae-f6bb8e-ef846c-b95658-832844-9fb06d-636e35
+
 
 ### Typography
 
