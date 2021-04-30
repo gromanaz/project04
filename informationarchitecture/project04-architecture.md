@@ -238,3 +238,12 @@
 
 # Taxonomy
 
+* Recipe Name
+  * Recipe Origin
+  * Description
+  * Recipe image
+    * Ingredients
+    * Instructions
+* Sources
+
+Very simple taxonomy, repeat for all dishes
