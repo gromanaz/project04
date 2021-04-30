@@ -1,4 +1,4 @@
-Team San Francisco
+Team San Francisco - Bradley Martin, Gina Romanazzi
 Professor Kostin
 DMS 290 - Front-End Web Design
 
@@ -31,6 +31,6 @@ https://coolors.co/666b6a-8b8c79-b0ac88-fbeeae-f6bb8e-ef846c-b95658-832844-9fb06
 
 Euphoria Script fits well with our chosen theme of food/dishes/recipes as it is a cursive handwritten font, reminding of handwritten recipes handed down from parents to children. It is more informal as kitchen matters are often personal. The strokes in this typeface are a little bit like squiggly spaghetti.
 
-The typeface Quattrocento works well for the main text as it is more legible in great amounts than Euphoria Script. Going with the notion of handwritten recipes passed on from generation to generation, this typespace has an Old Style feeling, like recipes that have been in a family for years, maybe also typed on typewriter.
+The typeface Quattrocento works well for the main text as it is more legible in great amounts than Euphoria Script. Yet still going with the notion of handwritten recipes passed on from generation to generation, this typespace has an Old Style feeling, like recipes that have been in a family for years, maybe also typed on typewriter, collected in a notebook.
 
 ![Font Example](https://github.com/gromanaz/project04/blob/c12a7ced1144b2b90adf37e46a93b1d52674eaee/visualdesign/project04-fontchoice.png)
