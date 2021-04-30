@@ -247,3 +247,10 @@
 * Sources
 
 Very simple taxonomy, repeat for all dishes
+
+# Choreography
+
+* When people look for specific recipes, they usually find them through Google unless they want a specific recipe from the website. If this is the case, they know what recipe they are looking for and probably want the easiest way to find it, which in this case would be to organize them by alphabetical order (L**A**TCH). This way everyone can easily pick up on the trend and see if the recipe they are looking for is there.
+* The recipe themselves are organized in a hierarchy (LATC**H**) based around information. The more general information is higher up on the list and the specific information is lower. This is for the user to determine if they want to cook the dish at the top (as they are more likely to read it if they don't have to scroll down) and then once they decide, they can look at the more specific details to make that exact dish.
+  * This also mimics other current recipe websites/blogs which have made it almost a standard in a way (by standard I mean that most of the websites follow the template I listed above).
+* Sources will be sort alphabetically
