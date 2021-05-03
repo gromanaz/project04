@@ -42,7 +42,8 @@
     * 1 pound boneless, skinless chicken thighs
     * 1 pound bone-in chicken breasts, skin removed
     * ½ teaspoon thyme (Optional)
-    * ½ teaspoon dried marjoram1 teaspoon salt (Optional)
+    * ½ teaspoon dried marjoram
+    * 1 teaspoon salt (Optional)
     * ¼ teaspoon freshly ground black pepper
     * 2 tablespoons unsalted butter, softened
     * 2 tablespoons all-purpose flour
