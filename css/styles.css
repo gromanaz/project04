@@ -100,3 +100,27 @@ footer {
 	color: white;
 	line-height: 30px;
 }
+
+.btn-primary {
+	background-color: #B95658;
+	color: white;
+	border: #B95658;
+	padding: 20px;
+	margin: 20px;
+	font-size: 30px;
+}
+
+.btn-primary:hover {
+	background-color: #EF846C;
+}
+
+.btn-secondary {
+	background-color: #636E35;
+	padding: 20px;
+	margin: 20px;
+	font-size: 30px;
+}
+
+.btn-secondary:hover {
+	background-color: #636E35;
+}
