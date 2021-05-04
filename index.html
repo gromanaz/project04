@@ -53,8 +53,33 @@
   </header>
 
   <main>
-    <div id="catchphrase">Bored in quarantine?</div>
-    <div><a class="btn btn-primary" href="chickenanddumplings.html" role="button">Start cooking!</a></div>
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="images/chickendumpling.jpg" class="d-block w-100" alt="Chicken and Dumplings">
+        </div>
+        <div class="carousel-item">
+          <img src="images/chickenparm.jpg" class="d-block w-100" alt="Chicken Parmigiana">
+        </div>
+        <div class="carousel-item">
+          <img src="images/macandcheese.jpg" class="d-block w-100" alt="Mac and Cheese">
+        </div>
+        <div class="carousel-item">
+          <img src="images/potroast.jpg" class="d-block w-100" alt="Pot Roast with Mashed Potatoes">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+
+    <div class="btn btn-secondary btn-lg" id="catchphrase">Bored in quarantine?</div>
+    <div class="float-end"><a class="btn btn-primary" href="chickenanddumplings.html" role="button">Start cooking!</a></div>
   </main>
 
   <footer>

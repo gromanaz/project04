@@ -21,3 +21,11 @@ COLOR PALETTE
 nav img{
 	width: 150px;
 }
+
+* {
+	font-family: "Quattrocento", serif; 
+}
+
+h1 a, h2, h3, h4 {
+	font-family: "Euphoria Script", cursive;
+}
