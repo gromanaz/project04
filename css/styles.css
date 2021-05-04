@@ -23,9 +23,80 @@ nav img{
 }
 
 * {
-	font-family: "Quattrocento", serif; 
+	font-family: "Quattrocento", serif;
 }
 
 h1 a, h2, h3, h4 {
 	font-family: "Euphoria Script", cursive;
+}
+
+a {
+	color: #9FB06D;
+}
+
+a:hover {
+	color: #636E35;
+}
+
+h1 a {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 60px;
+}
+
+h2 {
+	margin: 30px 30px 30px 0;
+	font-size: 45px;
+	font-family: "Quattrocento", serif;
+	color: #EF846C;
+	font-weight: bold;
+	border-bottom: 1px solid #EF846C;
+}
+
+h3 {
+	margin: 20px 20px 20px 0;
+	font-size: 40px;
+	color: #B95658;
+}
+
+h4 {
+	margin: 30px 30px 30px 0;
+	font-size: 35px;
+	color: #832844;
+}
+
+.container {
+	max-width: 1000px;
+}
+
+.container aside {
+	margin: 60px;
+}
+
+.container aside section {
+	padding: 20px;
+}
+
+.container img {
+	max-width: 450px;
+	margin-right: 40px;
+}
+
+ol li {
+	font-weight: bold;
+}
+
+ol li p {
+	font-weight: normal;
+}
+
+.list-group-numbered {
+	margin-bottom: 40px;
+}
+
+footer {
+	background-color: #9FB06D;
+	color: white;
+	line-height: 30px;
 }
