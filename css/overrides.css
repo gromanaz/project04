@@ -1,7 +1,7 @@
-header nav .bg-light {
-	background-color: #F6BB8E!important;
-}
-
 .carousel-inner{
 	height:700px;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+	color: #832844!important;
 }

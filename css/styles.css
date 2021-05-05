@@ -26,6 +26,10 @@ nav img{
 	font-family: "Quattrocento", serif;
 }
 
+body {
+	background-color: #FEFBEC;
+}
+
 h1 a, h2, h3, h4 {
 	font-family: "Euphoria Script", cursive;
 }
@@ -71,11 +75,12 @@ h4 {
 }
 
 .container aside {
-	margin: 60px;
+	margin: 200px 60px 60px 60px;
 }
 
 .container aside section {
 	padding: 20px;
+
 }
 
 .container img {
@@ -126,5 +131,16 @@ footer {
 }
 
 #navbar{
-	background-color: #F6BB8E!important;
+	background-color: #EF846C!important;
+}
+
+#navbar a {
+	color: #FEFBEC;
+}
+
+#navbar a:hover {
+	color: #813637;
+}
+.list-group-item {
+	background-color: #FFFEFA;
 }
