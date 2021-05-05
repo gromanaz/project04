@@ -5,3 +5,7 @@
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
 	color: #832844!important;
 }
+
+.navbar{
+	padding: 0px;
+}
