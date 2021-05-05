@@ -124,3 +124,7 @@ footer {
 .btn-secondary:hover {
 	background-color: #636E35;
 }
+
+#navbar{
+	background-color: #F6BB8E!important;
+}

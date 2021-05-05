@@ -1,3 +1,7 @@
-header.bg-light {
-	background-color: #F6BB8E; !important
+header nav .bg-light {
+	background-color: #F6BB8E!important;
+}
+
+.carousel-inner{
+	height:700px;
 }
