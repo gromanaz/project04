@@ -150,6 +150,14 @@ footer {
 	background-color: #FFFEFA;
 }
 
-.button-container{
+.body-container{
+	background-color: #ffdca1;
+	padding: 20px;
+}
 
+aside section{
+	background-color: #ffdca1;
+	border-style: solid;
+	border-color: #EF846C;
+	border-width: 1px;
 }
