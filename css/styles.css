@@ -36,7 +36,7 @@ h1 a, h2, h3, h4 {
 }
 
 a {
-	color: #9FB06D;
+	color: #8F9F56;
 }
 
 a:hover {
@@ -54,7 +54,7 @@ h2 {
 	margin: 30px 30px 30px 0;
 	font-size: 45px;
 	font-family: "Quattrocento", serif;
-	color: #EF846C;
+	color: #EB6547;
 	font-weight: bold;
 	border-bottom: 1px solid #EF846C;
 }
@@ -62,27 +62,26 @@ h2 {
 h3 {
 	margin: 20px 20px 20px 0;
 	font-size: 40px;
-	color: #B95658;
+	color: #832844;
+	font-weight: bold;
+	border-bottom: 1px dotted #832844;
+	display: inline-block;
 }
 
 h4 {
 	margin: 30px 30px 30px 0;
 	font-size: 35px;
 	color: #832844;
+	font-weight: bold;
 }
 
 .container {
 	max-width: 1200px;
-	margin-left: 320px;
+	margin-left: 340px;
 }
 
 .container aside {
 	margin: 200px 60px 60px 60px;
-}
-
-.container aside section {
-	padding: 20px;
-
 }
 
 .container img {
@@ -103,7 +102,7 @@ ol li p {
 }
 
 footer {
-	background-color: #9FB06D;
+	background: linear-gradient(90deg, rgba(159, 176, 109, 1) 0%, rgba(179, 191, 136, 1) 100%);
 	color: white;
 	line-height: 30px;
 }
@@ -141,7 +140,8 @@ footer {
 }
 
 #navbar a {
-	color: #FEFBEC;
+	color: white;
+	font-weight: bold;
 }
 
 #navbar a:hover {
@@ -166,5 +166,11 @@ aside section{
 	background-color: #ffdca1;
 	border-style: solid;
 	border-color: #EF846C;
-	border-width: 1px;
+	border-width: 3px;
+	padding: 30px;
+}
+
+aside a {
+	font-weight: bold;
+	text-decoration: none;
 }
