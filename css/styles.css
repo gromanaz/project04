@@ -174,3 +174,7 @@ aside a {
 	font-weight: bold;
 	text-decoration: none;
 }
+
+#catchphrase{
+	cursor: default;
+}
