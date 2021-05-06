@@ -146,6 +146,12 @@ footer {
 #navbar a:hover {
 	color: #813637;
 }
+
+#navbarSupportedContent a {
+	font-size: 18px;
+	padding-left: 20px;
+}
+
 .list-group-item {
 	background-color: #FFFEFA;
 }
